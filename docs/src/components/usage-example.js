@@ -243,7 +243,7 @@ export default React.createClass({
             </p>
 
             <p>
-              In fact any getter can synchronously and imperatively evaluated or observed.  The entire <code>ReactMixin</code> is built using only those two functions.
+              In fact any getter can be synchronously and imperatively evaluated or observed.  The entire <code>ReactMixin</code> is built using only those two functions.
             </p>
           </div>
         </div>
